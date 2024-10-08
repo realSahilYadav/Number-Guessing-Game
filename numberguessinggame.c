@@ -31,7 +31,7 @@ int main()
 
         else if (guessed>randomNumber)
         {
-            printf("Lower number please!\\n\n");
+            printf("Lower number please!\n\n");
         }
     }
     
